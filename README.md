@@ -32,7 +32,7 @@ save your own model if you decide to change any hyperparameters.
 
 ## Examples
 
-TODO
+See [examples.ipynb](examples.ipynb)
 
 [^1]: Pronounced "harmonic". The "X" is an uppercase Greek chi.
 [^2]: http://recherche.ircam.fr/equipes/pcm/cheveign/ps/2002_JASA_YIN_proof.pdf
